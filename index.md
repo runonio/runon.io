@@ -5,16 +5,16 @@ layout: default
 # 런온
 런온(Runon)은 개발팀 [섬세한사람들](https://www.seomse.com/) 에서 개발중인 자산관리 플랫폼 입니다.
 
-## 소스
+### 소스
 개발은 아래에 공개 프로젝트 혹은 비공개 프로젝트로 진행되고 있습니다.
  - https://github.com/seomse
  - https://github.com/runonio
 
-## 카카오 오픈톡
+### 카카오 오픈톡
 - https://open.kakao.com/o/g6vzOKqb
 - 참여코드: seomse
 
-# email
+### email
 - comseomse@gmail.com
 - 협업 문의
 - team join 문의
