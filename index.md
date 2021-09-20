@@ -2,124 +2,26 @@
 layout: default
 ---
 
-test
+런온(Runon)은 개발팀 [섬세한사람들](https://www.seomse.com/) 에서 개발중인 자산관리 플랫폼 입니다.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 목차
+[개요] (#개요)
 
-[Link to another page](./another-page.html).
+## 개요
+### 투자를 하지 않으면
 
-There should be whitespace between paragraphs.
+- 양적완화 정책으로 현금 가치하락(자산가격 상승)에 따른 노동의 가치가 낮아지고 있습니다.
+- 은행에 예금해도 이자율이 너무 낮아서 현금가치 하락에 대한 방어를 할 수 없습니다.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 투자에 필요한 준비
+- 기본적 분석, 기술적 분석을 할 수 있을 만큼의 충분한 공부
+- 기본적 분석: 많은 시간이 기업분석에 소요
+- 기술적 분석: 많은 시간에 차트 분석에 소요
 
-# Header 1
+### 현실적인 문제
+생활에 필요한 돈을 벌기 위해 직장생활과 같은 생산활동을 하면 충분히 학습하고 투자할 만큼의 시간이 부족 합니다. 많은 사람들이 도박성 단기투자로 손실을 보고 있습니다
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### 신뢰도 문제
+자산운용을 하는 사람을 신뢰하지 않아서 직접 투자하는 경우도 많습니다.
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
