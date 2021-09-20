@@ -1,0 +1,11 @@
+# hidden files
+.*
+!.github
+
+# jekyll cache
+_site
+vendor
+
+
+.sass-cache
+Gemfile.lock
