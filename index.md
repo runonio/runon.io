@@ -5,8 +5,8 @@ layout: default
 # 런온
 런온(Runon)은 개발팀 [섬세한사람들](https://www.seomse.com/) 에서 개발중인 자산관리 플랫폼 입니다.
 
-### 소스
-개발은 아래에 공개 프로젝트 혹은 비공개 프로젝트로 진행되고 있습니다.
+### repository
+개발은 아래에 공개 프로젝트 혹은 비공개 프로젝트로 진행되고 있습니다. 서비스 개발에 직접적인 영향이 있는 부분은 private repository 로 관리되고, 공통 혹은 기술적인 부분은 public repository 로 관리 됩니다.
  - https://github.com/seomse
  - https://github.com/runonio
 
