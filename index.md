@@ -12,7 +12,7 @@ layout: default
 
 ### 카카오 오픈톡
 - https://open.kakao.com/o/g6vzOKqb
-- 참여코드: seomse
+   - 참여코드: runon
 
 ### email
 - comseomse@gmail.com
