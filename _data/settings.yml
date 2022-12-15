@@ -36,7 +36,7 @@ disqus-identifier: runon-1 # Add your shortname for Disqus Comment. For example 
 # Hero Section
 
 hero:
-  hero-title: Financial Data Analysis <br> Asset Management <br> A.I System Trading
+  hero-title: 자산운용은 나만의 봇에 맡기고, 편안한 일상으로!
 
 #social:
 #  - { icon: "ti-facebook", link: "#" }
