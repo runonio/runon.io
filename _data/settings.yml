@@ -13,7 +13,7 @@ copyright:
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+  - { name: Research, link: "/blog" }
 #  - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
