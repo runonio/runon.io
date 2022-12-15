@@ -154,21 +154,21 @@ services:
     name: 오픈소스,
     icon: ti-panel,
     description: "",
-    active: true, # Add true to select section
+    active: , # Add true to select section
     url: "https://github.com/runonio",
   }
   - {
       name: 자산운용,
       icon: ti-user,
       description: "",
-      active: ,# Add true to select section
+      active: true, # Add true to select section
       moveurl: "/about",
     }
   - {
       name: 자산분석플랫폼,
       icon: ti-vector,
       description: "",
-      active: true, # Add true to select section
+      active: , # Add true to select section
       moveurl: "/about",
     }
 
