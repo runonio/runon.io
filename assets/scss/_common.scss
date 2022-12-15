@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
+
+
 body {
   background-color: $body-color;
   overflow-x: hidden;
@@ -183,11 +186,13 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: $secondary-font !important;
+  //font-family: $secondary-font !important;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .font-tertiary {
-  font-family: $secondary-font !important;
+  //font-family: $secondary-font !important;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .shadow {
