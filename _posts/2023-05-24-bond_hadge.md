@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 주도주 투자 와 장기채권으로 헷징이 필요한 시기
-date:   2023-05-24 06:32:00 +0900
+date:   2023-05-24 06:32:00
 author: macle
 tags: trading
 ---
