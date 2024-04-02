@@ -156,7 +156,7 @@ services:
     name: 오픈소스,
     icon: ti-panel,
     description: "",
-    active: , # Add true to select section
+    active: true, # Add true to select section
     url: "https://github.com/runonio",
   }
   - {
@@ -170,7 +170,7 @@ services:
       name: Cafe,
       icon: ti-comment,
       description: "",
-      active: , # Add true to select section
+      active: true, # Add true to select section
       url: "https://cafe.naver.com/radvisor",
     }
   - {
@@ -191,7 +191,7 @@ services:
     name: Financial Data,
     icon: ti-files,
     description: "",
-    active: true, # Add true to select section
+    active: false, # Add true to select section
     #    moveurl: "/about",
   }
 
