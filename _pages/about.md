@@ -88,9 +88,9 @@ investing, tradingview, tradingeconomics 과 같은 투자 정보 사이트 운�
 ● 데이터 문제로 서비스 보류
 #### 5.증권관련 데이터 수집 봇(비공개)
 #### 6.서비스 공통 모듈 프로젝트 (오픈소스) 
-● [https://github.com/seomse/seomse-commons]
+● [https://github.com/seomse/seomse-commons](https://github.com/seomse/seomse-commons)
 #### 7.자연어처리 AI플랫폼 (개발자 소속 회사)
-● [http://moara.ai/]
+● [http://moara.ai](http://moara.ai/)
 
 
 ## 주요 개발자 소개
