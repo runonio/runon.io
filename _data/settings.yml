@@ -178,7 +178,7 @@ services:
     icon: ti-stats-up,
     description: "",
     active: false, # Add true to select section
-    #    moveurl: "/about",
+    moveurl: "/about",
   }
   - {
     name: AI,
