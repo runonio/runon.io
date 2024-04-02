@@ -16,6 +16,7 @@ menu:
   - { name: Blog, link: "/blog" }
   - { name: Cafe, link: "https://cafe.naver.com/radvisor" }
   - { name: Git, link: "https://github.com/runonio" }
+  - { name: AI, link: "http://moara.ai" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
