@@ -76,25 +76,25 @@ investing, tradingview, tradingeconomics 과 같은 투자 정보 사이트 운�
 
 ## 진행중인 프로젝트
 #### 1.매매기술 백테스팅 데이터처리 (오픈소스) 
-● https://github.com/runonio/trading 
+● [https://github.com/runonio/trading](https://github.com/runonio/trading)
 #### 2.암호화폐 거래소 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개  
-● https://github.com/runonio/cryptocurrency
+● [https://github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
 #### 3.주식 데이터 분석 및 연동 (일부 오픈소스)  
-● https://github.com/seomse/seomse-stock   <br/>
-● https://github.com/runonio/stock          <br/>
-● https://github.com/runonio/securities-firm-api-kor  <br/>
-● https://github.com/seomse/seomse-kiwoom-java-api  
+● [https://github.com/seomse/seomse-stock](https://github.com/seomse/seomse-stock)   <br/>
+● [https://github.com/runonio/stock](https://github.com/runonio/stock)          <br/>
+● [https://github.com/runonio/securities-firm-api-kor](https://github.com/runonio/securities-firm-api-kor)  <br/>
+● [https://github.com/seomse/seomse-kiwoom-java-api](https://github.com/seomse/seomse-kiwoom-java-api)  
 #### 4.투자정보 서비스 사이트(비공개) 
 ● 데이터 문제로 서비스 보류
 #### 5.증권관련 데이터 수집 봇(비공개)
 #### 6.서비스 공통 모듈 프로젝트 (오픈소스) 
-● https://github.com/seomse/seomse-commons
+● [https://github.com/seomse/seomse-commons]
 #### 7.자연어처리 AI플랫폼 (개발자 소속 회사)
-● http://moara.ai/
+● [http://moara.ai/]
 
 
 ## 주요 개발자 소개
-### macle(김용수) (https://github.com/macle86)
+### macle(김용수) [https://github.com/macle86](https://github.com/macle86)
 ● 작은것을 만들어도 사용될 수 있는것을 만들고자 합니다.   <br/>
 ● 개발자의 가장 큰 가치는 만든것이 많은 사람들한테 만족스럽게 사용될 때 라고 생각합니다.   <br/>
 ● 개발자의 가치는 개발자가 만든 제품에 있다고 믿습니다.   <br/>
