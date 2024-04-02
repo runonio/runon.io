@@ -148,7 +148,7 @@ work-process:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: What is being done in runon
 services:
   - {
     name: 오픈소스,
@@ -164,13 +164,13 @@ services:
       active: true, # Add true to select section
       moveurl: "/about",
     }
-#  - {
-#      name: 자산분석플랫폼,
-#      icon: ti-vector,
-#      description: "",
-#      active: , # Add true to select section
-#      moveurl: "/about",
-#    }
+  - {
+      name: Cafe,
+      icon: ti-comment,
+      description: "",
+      active: , # Add true to select section
+      url: "https://cafe.naver.com/radvisor",
+    }
 
 
 
