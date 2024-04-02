@@ -158,19 +158,19 @@ services:
     url: "https://github.com/runonio",
   }
   - {
-      name: 자산운용,
+      name: 로보어드바이저,
       icon: ti-user,
       description: "",
       active: true, # Add true to select section
       moveurl: "/about",
     }
-  - {
-      name: 자산분석플랫폼,
-      icon: ti-vector,
-      description: "",
-      active: , # Add true to select section
-      moveurl: "/about",
-    }
+#  - {
+#      name: 자산분석플랫폼,
+#      icon: ti-vector,
+#      description: "",
+#      active: , # Add true to select section
+#      moveurl: "/about",
+#    }
 
 
 
