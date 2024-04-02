@@ -10,4 +10,6 @@ tags:  trading
 
 대안데이터 활용의 정석처럼 보이네요. 로보어드바이저, 특히 데이터 의존적인 프로그램을 개발중이라면 꼭 한번 보면 좋을거 같습니다.
 
+비트코인 지값의 코인이동과, 고래 지값들의 평균매수 단가를 활용한 매매전략등을 제시하고, 루나사태 FTX사태를 예측하고 미리 트윗할 수 있었던 이유에 대한 내용입니다.
+
 [https://www.youtube.com/watch?v=nHVXb4z5-RU](https://www.youtube.com/watch?v=nHVXb4z5-RU)
