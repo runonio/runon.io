@@ -86,9 +86,10 @@ investing, tradingview, tradingeconomics 과 같은 투자 정보 사이트 운�
 ● https://github.com/seomse/seomse-kiwoom-java-api  
 #### 4.투자정보 서비스 사이트(비공개) 
 ● 데이터 문제로 서비스 보류
-#### 5.서비스 공통 모듈 프로젝트 (오픈소스) 
+#### 5.증권관련 데이터 수집 봇(비공개)
+#### 6.서비스 공통 모듈 프로젝트 (오픈소스) 
 ● https://github.com/seomse/seomse-commons
-#### 6.자연어처리 AI플랫폼 (개발자 소속 회사)
+#### 7.자연어처리 AI플랫폼 (개발자 소속 회사)
 ● http://moara.ai/
 
 
