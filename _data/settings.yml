@@ -14,8 +14,8 @@ copyright:
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Cafe, url: "https://cafe.naver.com/radvisor" }
-  - { name: github, url: "https://github.com/runonio" }
+  - { name: Cafe, link: "https://cafe.naver.com/radvisor" }
+  - { name: Git, link: "https://github.com/runonio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
