@@ -69,13 +69,3 @@ tags:  trading
 
 평균적인 수준이다.
 
-# communication
-시스템 매매봇 관련 오픈톡
-- https://open.kakao.com/o/g6vzOKqb
-    - 참여코드: runon
-
-## 오픈소스
-일부는 오픈소스로 운영하고 있습니다. 단 운영되고 있는 매매 봇은 오픈소스는 아닙니다.
-
-- [github.com/runonio/trading](https://github.com/runonio/trading)
-- [github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
