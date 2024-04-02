@@ -163,7 +163,7 @@ services:
       name: 로보어드바이저,
       icon: ti-wand,
       description: "",
-      active: true, # Add true to select section
+      active: false, # Add true to select section
       moveurl: "/about",
     }
   - {
@@ -174,19 +174,20 @@ services:
       url: "https://cafe.naver.com/radvisor",
     }
   - {
+    name: 자산관리,
+    icon: ti-stats-up,
+    description: "",
+    active: false, # Add true to select section
+    #    moveurl: "/about",
+  }
+  - {
     name: AI,
     icon: ti-user,
     description: "",
     active: true, # Add true to select section
     url: "http://moara.ai",
   }
-  - {
-    name: 자산관리,
-    icon: ti-stats-up,
-    description: "",
-    active: false, # Add true to select section
-#    moveurl: "/about",
-  }
+
   - {
     name: Financial Data,
     icon: ti-files,
