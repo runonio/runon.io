@@ -273,36 +273,36 @@ services:
 ##-------------------------------
 ## Client Slider Section
 #
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "https:moara.ai"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "https:moara.ai"
+#client-slider-items:
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "https:moara.ai"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "https:moara.ai"
 
 #-------------------------------
 # Contact Section
