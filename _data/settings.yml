@@ -5,7 +5,7 @@
 title: Runon
 logo:
 author: macle
-description: 금융 데이터 분석, 자산 관리
+description: 로보어드바이저, 시스템트레이딩
 email: ysys86a@email.com
 phone: 설립이후 공개
 address: 서울시 송파구
@@ -14,7 +14,8 @@ copyright:
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-#  - { name: Portfolio, link: "/portfolio" }
+  - { name: Cafe, url: "https://cafe.naver.com/radvisor" }
+  - { name: github, url: "https://github.com/runonio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
