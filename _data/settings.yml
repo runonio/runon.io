@@ -191,7 +191,7 @@ services:
   }
 
   - {
-    name: financial data,
+    name: Financial Data,
     icon: ti-files,
     description: "",
     active: true, # Add true to select section
