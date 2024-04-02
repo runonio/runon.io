@@ -14,9 +14,9 @@ copyright:
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Cafe, link: "https://cafe.naver.com/radvisor" }
-  - { name: Git, link: "https://github.com/runonio" }
-  - { name: AI, link: "http://moara.ai" }
+#  - { name: Cafe, link: "https://cafe.naver.com/radvisor" }
+#  - { name: Git, link: "https://github.com/runonio" }
+#  - { name: AI, link: "http://moara.ai" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -161,7 +161,7 @@ services:
   }
   - {
       name: 로보어드바이저,
-      icon: ti-user,
+      icon: ti-wand,
       description: "",
       active: true, # Add true to select section
       moveurl: "/about",
@@ -174,7 +174,29 @@ services:
       url: "https://cafe.naver.com/radvisor",
     }
 
+  - {
+    name: 자산관리,
+    icon: ti-stats-up,
+    description: "",
+    active: true, # Add true to select section
+#    moveurl: "/about",
+  }
 
+  - {
+    name: AI,
+    icon: ti-user,
+    description: "",
+    active: false, # Add true to select section
+    #    moveurl: "/about",
+  }
+
+  - {
+    name: financial data,
+    icon: ti-files,
+    description: "",
+    active: true, # Add true to select section
+    #    moveurl: "/about",
+  }
 
 #-------------------------------
 # Portfolio (Section and Page)
