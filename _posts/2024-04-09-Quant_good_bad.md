@@ -93,4 +93,4 @@ BREAKOUT 게임은 도메인 지식 없는 강화학습으로 충분히 해결�
 
 제로썸인 트레이딩의 특성상 동작원리까지 모두 공개할 수는 없지만, 크래프트의 단기 주가 예측모델 중 하나인 Crescendo의 동작영상을 공개합니다.
 
-- https://www.youtube.com/watch?v=d54oc0bNlfU
+- [Crescendo 동작영상](https://www.youtube.com/watch?v=d54oc0bNlfU)
