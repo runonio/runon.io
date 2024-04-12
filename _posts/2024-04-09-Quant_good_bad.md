@@ -90,6 +90,7 @@ tags: trading
 
 저런 기관에서 사용하는 전략은 공개할 수도 없을 것 입니다. 공개한다면 시장이 변해서 더이상 맞지 않은 전략이 될 확율이 높겠죠.
 
+- https://www.youtube.com/watch?v=RVc8vjUz6Gw&t=1528s
 
 # 종합 예술에 가까운 프로그램들의 등장
 

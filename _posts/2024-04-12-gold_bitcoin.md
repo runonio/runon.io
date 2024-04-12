@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 금값 상승이 심상치 않네요. 금값, 비트코인
-date:   2024-04-12 09:00:00 +0000
+date:   2024-04-12 00:00:00 +0000
 author: macle
 tags: trading
 ---
