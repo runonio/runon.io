@@ -102,7 +102,7 @@ tags: trading
 
 국내 시장에 퀀트가 좋지 않았던 이유를 설명한 내용도 있네요.
 
-![두물머리 한태경 퀀트투자](https://www.youtube.com/watch?v=dSrsOjWvpnQ)
+[두물머리 한태경 퀀트투자](https://www.youtube.com/watch?v=dSrsOjWvpnQ)
 
 # 종합 예술에 가까운 프로그램들의 등장
 
