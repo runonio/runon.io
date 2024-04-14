@@ -65,3 +65,8 @@ tags: trading
 - [하둡을 못쓰는 상황에서의 병렬처리 플랫폼 개발](https://www.seomse.com/posts/parallel-processing/)
 - [리얼타임 인메모리 검색, 분석, 통계](https://www.seomse.com/posts/realtime-search-analysis/) 
 - [jdbc](https://www.seomse.com/posts/seomse-jdbc/)
+
+### 직접 자바로 구현 하면서 얻은 장점
+여러 서적에 나오는 기술적 분석 내용을 공식과 이론만 보고 직접 구현하다보니 어떤원리로 만들어진 공식이고, 어떠한 상황에서 쓰려고 만들었는지에 대해서 이해하게 되었습니다. 향후에 의미있는 새로운 지표를 만들 수 있게 된다면 이때 의 경험으로 인한것이라고 생각합니다.
+
+단 시간과 노력이 많이 들어가는길이므로 이미 만들어진걸 사용하는걸 추천 합니다.
