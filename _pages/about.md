@@ -16,6 +16,7 @@ signature:
 최근에 블로그 내용들을 다시 작성하니까 기존에 해왔던 작업 및 생각 정리, 앞으로의 방향을 고민하는데 도움이 되는것 같습니다.
 
 
+<br>
 
 - [직접개발 이유](https://runon.io/2024/03/19/language_reason/)
 - [로보어드바이저 및 퀀트 사업화에 대해서](https://runon.io/2024/04/14/roboadvisor_business/)
