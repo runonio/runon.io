@@ -22,7 +22,7 @@ tags:  trading
 - [퀀트 투자의 허와 실 - 제 2부: 백테스팅은 다다익선이 아니다](https://www.youtube.com/watch?v=mSBnzBD3yNw)
 
 관련 영상은 블로그에서도 소개한적이 있습니다.
-- [퀀트 투자의 허와 실(블로그 내용)](https://runon.io/2024/04/09/Quant_good_bad/)
+- [퀀트 투자의 허와 실(블로그 내용)](https://runon.io/2024/04/09/quant_good_bad/)
 
 # 연평균 수익률 66%, 르네상스 테크놀로지와 메달리온 펀드의 투자 비밀 | 짐 사이먼스
 
