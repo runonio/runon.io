@@ -64,7 +64,7 @@ tags: trading
 
 유명 유튜버 강환국 님의 채널에서 유료강의 리스크 관리를 무료로 공개한 영상입니다. 리스크 관리, 손실제한과 손익비의 중요성을 잘 설명해준 강의 영상 입니다.
 
-https://www.youtube.com/watch?v=X71eBdwyhnM
+[https://www.youtube.com/watch?v=X71eBdwyhnM](https://www.youtube.com/watch?v=X71eBdwyhnM)
 
 ### 연평균 수익률 66%, 르네상스 테크놀로지와 메달리온 펀드의 투자 비밀 | 짐 사이먼스
 
