@@ -88,4 +88,5 @@ tags: trading
 
 - [두물머리 한태경 퀀트투자](https://www.youtube.com/watch?v=dSrsOjWvpnQ)
 - [두물머리 한태경 진짜퀀트](https://www.youtube.com/watch?v=i9s9k4-uHXc)
+- [두물머리 한태경 퀀트로 우량주찾기](https://www.youtube.com/watch?v=uhugDe8bNFs)
 
