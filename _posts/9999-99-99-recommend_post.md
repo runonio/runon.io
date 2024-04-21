@@ -87,5 +87,5 @@ tags: trading
 월가 아재님의 영상이 위험도에 대해 잘 설명한 영상이라면, 이영상은 장점에 대해서 잘 설명한 영상 입니다.
 
 - [두물머리 한태경 퀀트투자](https://www.youtube.com/watch?v=dSrsOjWvpnQ)
-
+- [두물머리 한태경 진짜퀀트](https://www.youtube.com/watch?v=i9s9k4-uHXc)
 
