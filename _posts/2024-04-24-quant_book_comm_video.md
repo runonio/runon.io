@@ -33,3 +33,10 @@ https://www.youtube.com/@quant_univ
 
 [추세추종 트레이딩 책 읽는 순서(블로그 링크)](https://blog.naver.com/love392722/223234734469)
 
+# 기타
+
+## 리벨런싱
+
+[allocatesmartly](https://allocatesmartly.com/what-we-do/)
+
+[snowball72](https://docs.snowball72.com/)
