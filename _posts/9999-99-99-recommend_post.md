@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 추천 블로그, 추천영상
-date:   2024-09-10 07:00:00 +0000
+date:   2024-10-01 07:00:00 +0000
 author: macle
 tags: trading
 ---
@@ -71,6 +71,10 @@ tags: trading
 유명 유튜버 강환국 님의 채널에서 유료강의 리스크 관리를 무료로 공개한 영상입니다. 리스크 관리, 손실제한과 손익비의 중요성을 잘 설명해준 강의 영상 입니다.
 
 [https://www.youtube.com/watch?v=X71eBdwyhnM](https://www.youtube.com/watch?v=X71eBdwyhnM)
+
+### 물리학 지식을 동원한 주식투자
+시장의 효율화와 벡테스팅의 함정에 대해 이해하기 좋은영상 입니다.
+[https://www.youtube.com/watch?v=Rao7iOk3a2I](https://www.youtube.com/watch?v=Rao7iOk3a2I)
 
 ### 연평균 수익률 66%, 르네상스 테크놀로지와 메달리온 펀드의 투자 비밀 | 짐 사이먼스
 
