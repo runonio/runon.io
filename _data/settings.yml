@@ -159,7 +159,7 @@ services:
     url: "https://github.com/runonio",
   }
   - {
-      name: 연구 방향성,
+      name: 연구-개발 방향성,
       icon: ti-wand,
       description: "",
       active: false, # Add true to select section
