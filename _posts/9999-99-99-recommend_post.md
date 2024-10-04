@@ -49,6 +49,13 @@ tags: trading
 - [about(링크)](https://runon.io/about)
 
 ## 추천 영상
+### 전설적인 주식투자 책 3권
+세상의 모든책들 유투브 채널 에서 읽어주는 영상입니다. 개인적으로 투자에 준비가 되어 있지 않으면 시장수익율을 얻기위한 ETF가 더 유리한지 잘 이해할 수 있습니다.
+
+관련 영상은 좀 긴 내용입니다. 책을 읽어 주는 컨텐츠 이므로 여유있을때 듣기 괜찮습니다
+
+[https://www.youtube.com/watch?v=wIJeSBJaQZA](https://www.youtube.com/watch?v=wIJeSBJaQZA)
+
 
 ### 크립토퀀트 주기영대표 (대안데이터 분석)
 
@@ -100,7 +107,3 @@ tags: trading
 - [두물머리 한태경 진짜퀀트](https://www.youtube.com/watch?v=i9s9k4-uHXc)
 - [두물머리 한태경 퀀트로 우량주찾기](https://www.youtube.com/watch?v=uhugDe8bNFs)
 
-### 전설적인 주식투자 책 3권
-세상의 모든책들 유투브 채널 에서 읽어주는 영상입니다. 개인적으로 투자에 준비가 되어 있지 않으면 시장수익율을 얻기위한 ETF가 더 유리한지 잘 이해할 수 있습니다.
-
-[https://www.youtube.com/watch?v=wIJeSBJaQZA](https://www.youtube.com/watch?v=wIJeSBJaQZA)
