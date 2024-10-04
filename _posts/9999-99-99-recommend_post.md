@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 추천 블로그, 추천영상
-date:   2024-10-01 07:00:00 +0000
+date:   2024-10-03 07:00:00 +0000
 author: macle
 tags: trading
 ---
@@ -100,3 +100,7 @@ tags: trading
 - [두물머리 한태경 진짜퀀트](https://www.youtube.com/watch?v=i9s9k4-uHXc)
 - [두물머리 한태경 퀀트로 우량주찾기](https://www.youtube.com/watch?v=uhugDe8bNFs)
 
+### 전설적인 주식투자 책 3권
+세상의 모든책들 유투브 채널 에서 읽어주는 영상입니다. 개인적으로 투자에 준비가 되어 있지 않으면 시장수익율을 얻기위한 ETF가 더 유리한지 잘 이해할 수 있습니다.
+
+[https://www.youtube.com/watch?v=wIJeSBJaQZA](https://www.youtube.com/watch?v=wIJeSBJaQZA)
