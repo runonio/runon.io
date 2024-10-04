@@ -159,11 +159,11 @@ services:
     url: "https://github.com/runonio",
   }
   - {
-      name: 로보어드바이저,
+      name: 연구 방향성,
       icon: ti-wand,
       description: "",
       active: false, # Add true to select section
-      moveurl: "/about",
+      moveurl: "https://runon.io/2024/09/10/quant_direction/",
     }
   - {
       name: Cafe,
@@ -173,7 +173,7 @@ services:
       url: "https://cafe.naver.com/radvisor",
     }
   - {
-    name: 자산관리,
+    name: Quant Lab,
     icon: ti-stats-up,
     description: "",
     active: false, # Add true to select section
