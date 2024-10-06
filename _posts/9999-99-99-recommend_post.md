@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 추천 블로그, 추천영상
-date:   2024-10-03 07:00:00 +0000
+date:   2024-10-06 07:00:00 +0000
 author: macle
 tags: trading
 ---
