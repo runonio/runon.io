@@ -19,14 +19,15 @@ signature:
 #### 2.암호화폐 거래소 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개
 ● [https://github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
 #### 3.주식 데이터 분석 및 연동 (일부 오픈소스)
-● [https://github.com/seomse/seomse-stock](https://github.com/seomse/seomse-stock)   <br/>
 ● [https://github.com/runonio/stock](https://github.com/runonio/stock)          <br/>
+● [https://github.com/seomse/seomse-stock](https://github.com/seomse/seomse-stock)   <br/>
 ● [https://github.com/runonio/securities-firm-api-kor](https://github.com/runonio/securities-firm-api-kor)  <br/>
 ● [https://github.com/seomse/seomse-kiwoom-java-api](https://github.com/seomse/seomse-kiwoom-java-api)
 #### 4.투자정보 서비스 사이트(비공개)
-● 데이터 문제로 서비스 보류
+● 데이터 라이선스 협의 문제로 서비스 보류
 #### 5.증권관련 데이터 수집 봇(비공개)
 #### 6.서비스 공통 모듈 프로젝트 (오픈소스)
+● [https://github.com/runonio/commons-jdk8](https://github.com/runonio/commons-jdk8) <br/>
 ● [https://github.com/seomse/seomse-commons](https://github.com/seomse/seomse-commons)
 #### 7.자연어처리 AI플랫폼 (개발자 소속 회사)
 ● [http://moara.ai](http://moara.ai/)
