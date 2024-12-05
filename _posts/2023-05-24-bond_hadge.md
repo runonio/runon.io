@@ -3,8 +3,7 @@ layout: post
 title: 주도주 투자 와 장기채권으로 헷징이 필요한 시기
 date:   2023-05-24 06:32:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 아래표는 나스닥 100선물과 미국채 30년물의 2008년 금융위기 당시 데이터입니다.

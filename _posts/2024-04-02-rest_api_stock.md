@@ -3,8 +3,7 @@ layout: post
 title:  Rest Api 를 제공하는 국내 증권사
 date:  2024-04-02 00:00:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 현시점에서는 아래 2개의 증권사만 지원합니다. 한국투자증권이 회사규모가 커서 Rest Api로 개발할때 아직은 한국투자증권을 이용하는게 좋아보입니다.

@@ -3,8 +3,7 @@ layout: post
 title:  퀀트 개발의 이상적인 방향성
 date:  2024-09-10 05:30:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 이번 블로그는 제가 지금 만들고 있는 퀀트 시스템인 runon의 방향성 입니다.

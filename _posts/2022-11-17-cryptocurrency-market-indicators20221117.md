@@ -3,8 +3,7 @@ layout: post
 title: 암호화폐 시장지표 20221117
 date:  2022-11-17 06:30:00 +0800
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 신규 보조 지표들을 개발하고 있습니다. 직접 개발한 보조지표도 있고, 기존 이론을 구현한 시장지표들을 토대로 작성하였습니다.

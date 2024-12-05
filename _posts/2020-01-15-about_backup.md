@@ -3,8 +3,7 @@ layout: post
 title: about 백업, 
 date:   2020-01-01 06:32:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 엔진 개발 과정에서 지식이 더 많아져서 초기사업 목표를 재 설정하였습니다. 사업화는 엔진의 완성도가 더 높아지고 다시 고민할 문제로 보여서 초기에 작성했던 내용 백업용 입니다.

@@ -3,8 +3,7 @@ layout: post
 title: 투자대회 고수익, 프로그램 고수익을 조심해야 하는 이유
 date:   2024-04-12 09:00:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 이전 포스팅에 이어서 고수익성 광고를 조심해야 하는 이유에 대해 작성하엿습니다.

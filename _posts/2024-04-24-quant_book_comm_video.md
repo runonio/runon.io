@@ -3,8 +3,7 @@ layout: post
 title: 퀀트 책, wki 영상, 커뮤니티 
 date:   2024-04-24 10:00:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 이번 블로그는 계속 정리해나갈 예정입니다.

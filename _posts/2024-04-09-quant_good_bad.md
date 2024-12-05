@@ -3,8 +3,7 @@ layout: post
 title: 퀀트 투자의 허와 실
 date:   2024-04-09 09:32:00 +0000
 author: macle
-categories: [trading]
-tags: [trading]
+
 ---
 
 # 퀀트 투자를 개발하면서 하는 실수 Overfitting
