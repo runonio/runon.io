@@ -3,7 +3,8 @@ layout: post
 title: 퀀트 추천언어와 직접개발 이유
 date:   2024-03-19 09:00:00 +0000
 author: macle
-tags: trading
+categories: [trading]
+tags: [trading]
 ---
 
 # 퀀트 추천 언어

@@ -3,7 +3,8 @@ layout: post
 title: 자동매매 ETF 백테스팅 (레버리지, 인버스)
 date:   2021-01-15 06:32:00 +0000
 author: macle
-tags: trading
+categories: [trading]
+tags: [trading]
 ---
 
 # 개요

@@ -3,7 +3,8 @@ layout: post
 title: 미국과 가국의 돈 찍기 
 date:   2024-04-23 09:00:00 +0000
 author: macle
-tags: trading
+categories: [trading]
+tags: [trading]
 ---
 
 각국이 이렇게 돈을 찍는지 알았다면 좀 더 S&P500 을 모아갔을거 같은데...

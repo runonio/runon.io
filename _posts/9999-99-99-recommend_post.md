@@ -3,7 +3,8 @@ layout: post
 title: 추천 블로그, 추천영상
 date:   2024-10-10 07:00:00 +0000
 author: macle
-tags: trading
+categories: [trading]
+tags: [trading]
 ---
 
 최근에 생각을 정리할겸 블로그를 작성 하다 보니 다른분들도 보았으면 하는 내용들이 뒤로 밀려서 추천하는 블로그 내용을 따로 모아놓고 이 내용이 가장 처음에 보이게 하려고 합니다.

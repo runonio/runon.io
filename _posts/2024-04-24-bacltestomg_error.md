@@ -3,7 +3,8 @@ layout: post
 title: 벡테스팅 오류 와 해결방안 정리
 date:   2024-04-24 11:00:00 +0000
 author: macle
-tags: trading
+categories: [trading]
+tags: [trading]
 ---
 
 이 포스팅은 벡테스팅에서 실행될 수 있는 오류를 업데이트 해 나가려고 합니다.
