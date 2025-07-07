@@ -6,6 +6,7 @@ image:
 signature:
 ---
 
+<br/>
 
 ## 주요 개발자 소개
 ### macle(김용수) [https://github.com/macle86](https://github.com/macle86)
@@ -26,13 +27,15 @@ signature:
 ● AI 플랫폼에 LLM, STT, TTS 구축  <br/>
 ● 2012년부터 Quant 연구 (회사와 별개)
 
+<br/>
+<br/>
 
 ## 진행중인 프로젝트
 #### 1.매매기술 백테스팅 데이터처리 (오픈소스)
 ● [https://github.com/runonio/trading](https://github.com/runonio/trading)
-#### 2.암호화폐 거래소 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개
+#### 2.암호화폐 거래소 api 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개
 ● [https://github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
-#### 3.주식 데이터 분석 및 연동 (오픈소스)
+#### 3.주식 데이터 분석 및 연동, 증권사 api연동 (오픈소스)
 ● [https://github.com/runonio/stock](https://github.com/runonio/stock)    <br/>
 #### 4.서비스 공통 모듈 프로젝트 (오픈소스)
 ● [https://github.com/runonio/commons](https://github.com/runonio/commons) <br/>
