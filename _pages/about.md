@@ -5,21 +5,6 @@ author: macle
 image: 
 signature:
 ---
-## 진행중인 프로젝트
-#### 1.매매기술 백테스팅 데이터처리 (오픈소스)
-● [https://github.com/runonio/trading](https://github.com/runonio/trading)
-#### 2.암호화폐 거래소 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개
-● [https://github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
-#### 3.주식 데이터 분석 및 연동 (오픈소스)
-● [https://github.com/runonio/stock](https://github.com/runonio/stock)    <br/>
-#### 4.서비스 공통 모듈 프로젝트 (오픈소스)
-● [https://github.com/runonio/commons](https://github.com/runonio/commons) <br/>
-#### 5.투자정보 서비스 사이트(비공개)
-● 데이터 라이선스 협의 문제로 서비스 보류
-#### 6.데이터 수집 봇(비공개)
-#### 7.로보어드바이저 (비공개)
-#### 8.자연어처리 AI플랫폼 (개발자 소속 회사)
-● [http://moara.ai](http://moara.ai/)
 
 
 ## 주요 개발자 소개
@@ -40,3 +25,20 @@ signature:
 ● 기술 특허개발 (회사 등록): 유사관점을 활용한 규칙기반 유사도 -> (제 10-2564316호) 문서간 유사 영역을 실별하는 전자 장치, 제어 방법 및 컴퓨터 프로그램   <br/>
 ● AI 플랫폼에 LLM, STT, TTS 구축  <br/>
 ● 2012년부터 Quant 연구 (회사와 별개)
+
+
+## 진행중인 프로젝트
+#### 1.매매기술 백테스팅 데이터처리 (오픈소스)
+● [https://github.com/runonio/trading](https://github.com/runonio/trading)
+#### 2.암호화폐 거래소 연동 및 데이터 처리 (오픈소스) 매매봇 프로젝트는 비공개
+● [https://github.com/runonio/cryptocurrency](https://github.com/runonio/cryptocurrency)
+#### 3.주식 데이터 분석 및 연동 (오픈소스)
+● [https://github.com/runonio/stock](https://github.com/runonio/stock)    <br/>
+#### 4.서비스 공통 모듈 프로젝트 (오픈소스)
+● [https://github.com/runonio/commons](https://github.com/runonio/commons) <br/>
+#### 5.투자정보 서비스 사이트(비공개)
+● 데이터 라이선스 협의 문제로 서비스 보류
+#### 6.데이터 수집 봇(비공개)
+#### 7.로보어드바이저 (비공개)
+#### 8.자연어처리 AI플랫폼 (개발자 소속 회사)
+● [http://moara.ai](http://moara.ai/)

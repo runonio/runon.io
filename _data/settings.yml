@@ -5,10 +5,10 @@
 title: Runon
 logo:
 author: macle
-description: 로보어드바이저, 시스템트레이딩
+description: Quant(퀀트), 로보어드바이저
 email: ysys86a@email.com
-phone: contact 참조
-address: contact 참조
+#phone: contact 참조
+#address: contact 참조
 copyright:
 
 menu:
@@ -171,19 +171,20 @@ services:
 #    active: true, # Add true to select section
 #    moveurl: "/about",
 #  }
-  - {
-    name: AI,
-    icon: ti-user,
-    description: "",
-    active: false, # Add true to select section
-    url: "http://moara.ai",
-  }
+
   - {
     name: Blog,
     icon: ti-comment,
     description: "",
-    active: true, # Add true to select section
+    active: false, # Add true to select section
     url: "https://runonio.blogspot.com/",
+  }
+  - {
+    name: AI,
+    icon: ti-user,
+    description: "",
+    active: true, # Add true to select section
+    url: "http://moara.ai",
   }
 #  - {
 #    name: Financial Data,
