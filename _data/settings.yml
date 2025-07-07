@@ -5,7 +5,7 @@
 title: Runon
 logo:
 author: macle
-description: Quant(퀀트), 로보어드바이저
+description: 투자, Quant(퀀트), 로보어드바이저
 email: ysys86a@email.com
 phone: contact 참조
 address: contact 참조
@@ -37,7 +37,7 @@ disqus-identifier: runon-1 # Add your shortname for Disqus Comment. For example 
 # Hero Section
 
 hero:
-  hero-title: Quant Lab. survive in the market
+  hero-title: Invest(Quant) Lab. survive in the market
 
 #social:
 #  - { icon: "ti-facebook", link: "#" }
