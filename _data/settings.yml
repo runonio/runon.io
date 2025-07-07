@@ -13,7 +13,7 @@ copyright:
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+  - { name: Blog, link: "https://runonio.blogspot.com/" }
 #  - { name: Git, link: "https://github.com/runonio" }
 #  - { name: AI, link: "http://moara.ai" }
   - { name: Contact, link: "/contact" }
@@ -49,7 +49,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb:  금융데이터 확보, 데이터 분석, 퀀트를 연구하고 있습니다. <br> 같이연구해요. contact(참조) <br> 전략적인 부분을 제외하고는 오픈소스로 프로젝트를 진행하고 있습니다. <br> 연구과정중 일부도 공개 포스팅으로 작성 합니다.
+blurb:  기업분석, 금융데이터 확보, 데이터 분석, 퀀트를 연구하고 있습니다. <br> 같이연구해요. contact(참조) <br> 전략적인 부분을 제외하고는 오픈소스로 프로젝트를 진행하고 있습니다.
 
 
 blurb-btn-link: "/about"
@@ -58,18 +58,18 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-work-process:
-  - title: "투자 계획"
-    icon: "assets/images/icons/plan.png"
-    content: "분석 플랫폼을 활용하여 현 시점에 유리한 투자를 계획합니다."
-
-  - title: "백테스팅"
-    icon: "assets/images/icons/plan.png"
-    content: "투자계획을 검증 합니다."
-
-  - title: "운영 반영"
-    icon: "assets/images/icons/plan.png"
-    content: "검증된 투자계획을 바탕으로 봇이 자산을 관리 합니다."
+#work-process:
+#  - title: "투자 계획"
+#    icon: "assets/images/icons/plan.png"
+#    content: "분석 플랫폼을 활용하여 현 시점에 유리한 투자를 계획합니다."
+#
+#  - title: "백테스팅"
+#    icon: "assets/images/icons/plan.png"
+#    content: "투자계획을 검증 합니다."
+#
+#  - title: "운영 반영"
+#    icon: "assets/images/icons/plan.png"
+#    content: "검증된 투자계획을 바탕으로 봇이 자산을 관리 합니다."
 
 # My Team Section
 #team:
@@ -157,20 +157,20 @@ services:
     active: true, # Add true to select section
     url: "https://github.com/runonio",
   }
-  - {
-      name: 연구-개발 방향성,
-      icon: ti-wand,
-      description: "",
-      active: false, # Add true to select section
-      moveurl: "https://runon.io/2024/09/10/quant_direction/",
-    }
-  - {
-    name: Quant Lab,
-    icon: ti-stats-up,
-    description: "",
-    active: true, # Add true to select section
-    moveurl: "/about",
-  }
+#  - {
+#      name: 연구-개발 방향성,
+#      icon: ti-wand,
+#      description: "",
+#      active: false, # Add true to select section
+#      moveurl: "https://runon.io/2024/09/10/quant_direction/",
+#    }
+#  - {
+#    name: Quant Lab,
+#    icon: ti-stats-up,
+#    description: "",
+#    active: true, # Add true to select section
+#    moveurl: "/about",
+#  }
   - {
     name: AI,
     icon: ti-user,
@@ -183,15 +183,15 @@ services:
     icon: ti-comment,
     description: "",
     active: true, # Add true to select section
-    moveurl: "/blog",
+    url: "https://runonio.blogspot.com/",
   }
-  - {
-    name: Financial Data,
-    icon: ti-files,
-    description: "",
-    active: false, # Add true to select section
-    #    moveurl: "/about",
-  }
+#  - {
+#    name: Financial Data,
+#    icon: ti-files,
+#    description: "",
+#    active: false, # Add true to select section
+#    #    moveurl: "/about",
+#  }
 
 
 #-------------------------------
