@@ -15,7 +15,7 @@ date: 2020-01-20 10:30:00 +0800
 위 요건들을 충족하기 위해서 빠른 속도로 파일 라인수를 읽고 특정라인을 빨리 읽어오는 부분이 필요하게 되었습니다.
 
 # 소스
-https://github.com/runonio/commons-jdk8
+https://github.com/runonio/commons
 
 modules -> commons 에서 사용할 수 있습니다.
 
