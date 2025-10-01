@@ -13,8 +13,8 @@ copyright:
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "https://runonio.blogspot.com/" }
-#  - { name: Git, link: "https://github.com/runonio" }
+  - { name: Blog, link: "https://bolg.runon.io/" }
+  - { name: Git, link: "https://github.com/runonio" }
 #  - { name: AI, link: "http://moara.ai" }
   - { name: Contact, link: "/contact" }
 
@@ -49,7 +49,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb:  기업분석, 금융데이터 확보, 데이터 분석, 퀀트를 연구하고 있습니다. <br> 여러 금융권에서 사용중인 자연어처리 AI, 데이터처리 제품을 만든 경험으로 새로운 투자 환경을 제공합니다.
+blurb:  기업분석, 금융데이터 확보, 데이터 분석, 퀀트를 연구하고 있습니다. <br> 여러 금융권에서 사용중인 자연어처리 AI 제품을 만든 경험으로 새로운 투자 환경을 제공합니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
