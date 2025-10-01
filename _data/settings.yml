@@ -13,7 +13,7 @@ copyright:
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "https://bolg.runon.io/" }
+  - { name: Blog, link: "https://blog.runon.io" }
   - { name: Git, link: "https://github.com/runonio" }
 #  - { name: AI, link: "http://moara.ai" }
   - { name: Contact, link: "/contact" }
@@ -176,7 +176,7 @@ services:
     icon: ti-comment,
     description: "",
     active: false, # Add true to select section
-    url: "https://runonio.blogspot.com/",
+    url: "https://blog.runon.io",
   }
   - {
     name: AI,
