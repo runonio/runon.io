@@ -6,9 +6,6 @@
     <title>Runon - Code for Real Value</title>
     <meta name="description" content="Runon은 데이터 분석, 자산관리, AI, NLP 기술을 보유하고 있는 실용적인 가치를 만드는 개발 전문 회사입니다.">
 
-    <link rel="icon" type="image/png" href="assets/images/favicon.png">
-    <link rel="apple-touch-icon" href="assets/images/favicon.png">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -26,7 +23,7 @@
                             50: '#eff6ff',
                             100: '#dbeafe',
                             500: '#3b82f6',
-                            600: '#2563eb',
+                            600: '#2563eb', // 메인 블루 컬러
                             900: '#1e3a8a', // Deep Navy
                         }
                     }
@@ -39,9 +36,13 @@
 
 <nav class="w-full bg-white/80 backdrop-blur-md border-b border-slate-200 sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
-        <a href="#" class="text-2xl font-black tracking-tighter text-brand-900">RUNON</a>
+        <a href="#" class="flex items-center gap-1 group">
+            <img src="assets/images/runon_logo.png" alt="Runon Logo" class="h-11 w-auto object-contain">
+            <span class="text-2xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600">RUNON</span>
+        </a>
 
-        <div class="flex items-center gap-4 md:gap-8"> <a href="https://github.com/runonio" target="_blank" class="text-sm font-medium text-slate-500 hover:text-brand-600 transition">Git</a>
+        <div class="flex items-center gap-4 md:gap-8">
+            <a href="https://github.com/runonio" target="_blank" class="text-sm font-medium text-slate-500 hover:text-brand-600 transition">Git</a>
             <a href="https://blog.runon.io" target="_blank" class="text-sm font-medium text-slate-500 hover:text-brand-600 transition">Blog</a>
             <a href="mailto:info@runon.io" class="text-sm font-medium text-slate-500 hover:text-brand-600 transition">Contact Us</a>
         </div>
@@ -61,7 +62,7 @@
             </p>
             <div class="w-16 h-1 bg-brand-500 mx-auto rounded-full"></div>
             <p class="text-base md:text-lg text-slate-500 font-normal break-keep">
-                작은 것을 만들더라도 필요하고 사용할 수 있는 것을<br class="hidden md:block"> 만들기 위해 노력하겠습니다.
+                작은 것을 만들더라도 꼭 필요하고 사용할 수 있는 것을<br class="hidden md:block"> 만들기 위해 노력하겠습니다.
             </p>
         </div>
     </div>
@@ -122,9 +123,9 @@
                 <div class="absolute top-0 right-0 bg-brand-600 text-white text-xs font-bold px-3 py-1 rounded-bl-lg">Coming Soon</div>
                 <div class="flex flex-col md:flex-row md:items-center justify-between gap-6">
                     <div>
-                        <div class="flex items-center gap-2 mb-3">
-                            <span class="text-brand-600 font-black text-2xl tracking-tight">Gformance</span>
-                            <svg class="w-5 h-5 text-slate-400 group-hover:text-brand-600 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                        <div class="flex items-center gap-1 mb-3">
+                            <img src="assets/images/gformance_logo.png" alt="Gformance Logo" class="h-8 w-auto object-contain">
+                            <span class="font-black text-2xl tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-red-600">Gformance</span>
                         </div>
                         <p class="text-slate-600 mb-4 max-w-xl text-sm md:text-base">
                             자산관리의 새로운 기준을 제시합니다. 시장분석, 종목분석, 포트관리, 퀀트, 매매자동화 솔루션 Gformance를 준비하고 있습니다.
@@ -159,8 +160,8 @@
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"></path></svg>
                 </div>
                 <div>
-                    <h4 class="font-bold text-lg mb-1 text-slate-900 group-hover:text-brand-600 transition">Tech Blog</h4>
-                    <p class="text-slate-500 text-sm">개발, 투자 고민과 경험을 공유합니다.</p>
+                    <h4 class="font-bold text-lg mb-1 text-slate-900 group-hover:text-brand-600 transition">Blog</h4>
+                    <p class="text-slate-500 text-sm">개발, 투자 지식과 경험을 공유합니다.</p>
                 </div>
             </a>
 
